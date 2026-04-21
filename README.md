@@ -19,7 +19,7 @@ Build an end-to-end NLP pipeline for sentiment analysis
 
     c. Neutral
 
-5. Run the code: python src/train.py
+5. Run the code: 
      - python src/train.py
      - python src/prediction.py
  
