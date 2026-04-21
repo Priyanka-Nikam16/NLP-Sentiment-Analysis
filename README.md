@@ -1,4 +1,4 @@
-# Sentiment-Analysis-With-Streamlit-
+# NLP-Sentiment-Analysis
 
 
 ## Goal:
